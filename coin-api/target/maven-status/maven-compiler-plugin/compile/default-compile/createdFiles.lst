@@ -1,0 +1,7 @@
+com/example/api/CoinChangeResource$ErrorResponse.class
+com/example/CoinChangeApplication.class
+com/example/core/CoinChangeCalculator.class
+com/example/api/CoinChangeResource.class
+com/example/model/CoinChangeRequest.class
+com/example/model/CoinChangeResponse.class
+com/example/CoinChangeConfiguration.class
